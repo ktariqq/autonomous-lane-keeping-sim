@@ -34,7 +34,7 @@ Built as a drop-in substitute for a ROS 2 + Gazebo stack in an environment where
 
 <br/>
 
-<div align="center"><img src="assets/screenshot.jpg" width="1000"></div>
+<div align="center"><img src="assets/screenshot.jpg" width="200"></div>
 
 <br/>
 
@@ -114,7 +114,7 @@ src/
 ## 🟣 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/autonomous-lane-keeping-sim.git
+git clone https://github.com/ktariqq/autonomous-lane-keeping-sim.git
 cd autonomous-lane-keeping-sim
 pip install -r requirements.txt
 
