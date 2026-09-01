@@ -34,7 +34,7 @@ Built as a drop-in substitute for a ROS 2 + Gazebo stack in an environment where
 
 <br/>
 
-<div align="center"><img src="assets/screenshot.jpg" width="200"></div>
+<div align="center"><img src="assets/screenshot.jpg" width="1000"></div>
 
 <br/>
 
